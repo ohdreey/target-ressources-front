@@ -7,6 +7,7 @@ import poisson from "../assets/poisson.png";
 import { useState } from "react";
 import "./Form.css";
 import axios from "axios";
+import "../components/CibleLogo.css";
 
 const Form = () => {
   const [choixRessource, setChoixRessource] = useState();
@@ -48,6 +49,7 @@ const Form = () => {
 
   return (
     <div className='temp'>
+      <div className='cibleLogo'></div>
       <div className='globalForm'>
         <div className={ressourceOn ? "ressourcesChoix" : "formOff"}>
           <div className='bois'>
@@ -110,6 +112,7 @@ const Form = () => {
                 Entrer le nombre de pas de l'Ouest à l'Est :
               </label>
               <input
+                className='inputText'
                 type='number'
                 name='position'
                 onChange={(e) => setPositionX(e.target.value)}
@@ -120,6 +123,7 @@ const Form = () => {
                 Entrer le nombre de pas du Nord au Sud :
               </label>
               <input
+                className='inputText'
                 type='number'
                 name='position'
                 onChange={(e) => setPositionY(e.target.value)}
@@ -138,6 +142,7 @@ const Form = () => {
           <div>
             <label for='Description'>Description de la ressource :</label>
             <input
+              className='inputText'
               type='text'
               name='description'
               onChange={(e) => setDescription(e.target.value)}

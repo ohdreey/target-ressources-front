@@ -59,3 +59,30 @@
 .formOff {
   display: none;
 }
+
+.inputText {
+  background: none;
+  color: orange;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 5%;
+  height: 2em;
+  font-size: 100%;
+  margin-bottom: 2em;
+}
+
+.inputText:hover {
+  cursor: auto;
+}
+
+.inputText:focus {
+  border: 3px solid;
+  border-color: rgb(60, 184, 19);
+  outline: none;
+  background: none;
+}
+
+.cible {
+  width: 10%;
+}

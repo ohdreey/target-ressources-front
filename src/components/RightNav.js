@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 import Form from "./Form";
+import CibleLogo from "../components/CibleLogo";
 
 const Ul = styled.ul`
   list-style: none;
@@ -24,7 +25,9 @@ const Ul = styled.ul`
 const RightNav = ({ open }) => {
   return (
     <Ul open={open}>
-      <li>Gérer mes ressources</li>
+      <CibleLogo />
+
+      <li className='GmR'>Gérer mes ressources</li>
       <Form />
     </Ul>
   );
