@@ -14,6 +14,7 @@ const StyledBurger = styled.div`
   display: flex;
   justify-content: space-around;
   flex-flow: column nowrap;
+  
 
   div {
     width: 2rem;
@@ -22,6 +23,7 @@ const StyledBurger = styled.div`
     border-radius: 10px;
     transform-origin: 1px;
     transition: all 0.3s linear;
+ 
 
     &:nth-child(1) {
       transform: ${({ open }) => (open ? "rotate(45deg)" : "rotate(0)")};
