@@ -5,9 +5,10 @@
   /* background-image: url("assets/carteNB.jpg");
   background-size: cover;
   background-position: center; */
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center;  */
+  /* margin-top: 20px; */
 }
 
 .logoImg {
@@ -17,8 +18,10 @@
 }
 
 .carte {
-  z-index: -1;
+  /* z-index: -1; */
   width: 100vw;
+
+  /* top: 50px; */
   border: 1px dashed black;
 }
 
