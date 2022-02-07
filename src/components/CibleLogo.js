@@ -1,4 +1,5 @@
-import cible from "../assets/cible.png";
+import cible from '../assets/cible.png';
+import './CibleLogo.css';
 
 const CibleLogo = () => {
   return (

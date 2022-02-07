@@ -7,13 +7,18 @@
   background-position: center; */
   /* display: flex;
   justify-content: center;
-  align-items: center;  */
-  /* margin-top: 20px; */
+  align-items: center; */
+}
+
+.logo {
+  width: 550px;
+  height: 250px;
+  margin-bottom: -100%;
 }
 
 .logoImg {
   width: 10%;
-  margin-top: 1em;
+  margin-top: 10em;
   margin-left: 1em;
 }
 
@@ -27,4 +32,54 @@
 
 .contenerCarte {
   position: relative;
+}
+
+/* .animation {
+  animation: 3s linear 1s slidein;
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* @keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+} */
+
+/* @keyframes slidein {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+} */
+
+.popupOff {
+  display: none;
+}
+
+.popupInfo {
+  display: block;
+  opacity: 1;
+  position: fixed;
+  box-shadow: 0 5px 25px var(--shadowColor);
+  backdrop-filter: blur(20px);
+  z-index: 30000;
+  padding: 30px;
+  border-radius: 12px;
+  margin: 0px;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 3px solid;
 }
