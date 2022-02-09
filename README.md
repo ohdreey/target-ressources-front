@@ -16,7 +16,7 @@
 
 <hr/>
 
-👩‍💻: Qui suis-je ? : Je suis développeuse Full-stack junior en formation à la Wild Code School <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sur Paris.
+👩‍💻: Qui suis-je ? : Je suis Audrey, développeuse Full-stack junior en formation à la Wild Code School <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sur Paris.
   
 - :telescope: - React.JS & Node.JS - Frontend and backend pour développer des sites internets et des applications.
 
