@@ -65,7 +65,7 @@
 
 
 <br/>
-
+<h2>Captures d'écran:</h2>
 <h2>Dans le répertoire du projet, vous pouvez exécuter :</h2>
 <p>npm install</p>
  <p>npm start</p>
