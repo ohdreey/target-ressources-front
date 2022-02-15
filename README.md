@@ -45,26 +45,24 @@
 <br/>
 <h2> Le projet </h2>
 
-<p>Le projet a été développé dans le cadre du programme de formation en développement web à la <a href="https://www.wildcodeschool.com/">Wild Code School</a> , d'une durée de 4 semaines (Janvier 2022).</p>
+<p>Le projet a été développé dans le cadre du programme de formation en développement web à la <a href="https://www.wildcodeschool.com/">Wild Code School</a> , d'une durée de 30 heures (Janvier 2022).</p>
 </br>
 <p>L'objectif était de créer une application React.js et de manipuler les données d'une API. Nous avons également appris et appliqué les méthodes agiles (notamment SCRUM). Ce faisant, nous avons commencé par concevoir un Wireframe, nous avons élaboré un Product Backlog en définissant les différentes user stories et les Tech Tasks impliquées. Enfin, tout au long du projet, nous avons utilisé Trello pour mieux organiser et suivre nos progrès.</p>
 </br>
   
 <h2>Caractéristiques</h2>
 <ul>
- <li>Un globe 3D modélisé grace à Three.js</li>
- <li>Différents modales apparaissant à chaque clique sur les vignettes</li>
- <li>Un carroussel de photos</li>
-  <li>Un lecteur audio</li>
- <li>Un bot interactif</li>
+ <li>Une application mobile</li>
+ <li>Les ressources s'affichent sur la carte en fonction des coordonnées renseignées </li>
+ <li>Possibilité d'effacer les ressources sur la carte</li>
  
 <h2> L'équipe </h2>
 
 <br/>
 <ul>
-    <li>Benedicte<a href=</a>https://github.com/Benedct-Laurain</li>
-   <li>Anoushka<a href=</a>https://github.com/Anouchka-M</li>
- <li>Mariem<a href=</a>https://github.com/mariem31</li>
+ <li>Benedicte<a href=</a>https://github.com/Benedct-Laurain</a></li>
+   <li>Anoushka<a href=</a>https://github.com/Anouchka-M</a></li>
+ <li>Mariem<a href=</a>https://github.com/mariem31</a></li>
    <li>Audrey VALLIÉ</li>
 </ul>
 <br/>
