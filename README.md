@@ -62,8 +62,9 @@
 
 <br/>
 <ul>
-    <li><a href=</a> </li>
-   
+    <li>Benedicte<a href=</a>https://github.com/Benedct-Laurain</li>
+   <li>Anoushka<a href=</a>https://github.com/Anouchka-M</li>
+ <li>Mariem<a href=</a>https://github.com/mariem31</li>
    <li>Audrey VALLIÉ</li>
 </ul>
 <br/>
