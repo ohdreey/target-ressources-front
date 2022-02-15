@@ -47,7 +47,7 @@
 
 <p>Le projet a été développé dans le cadre du programme de formation en développement web à la <a href="https://www.wildcodeschool.com/">Wild Code School</a> , d'une durée de 30 heures (Janvier 2022).</p>
 </br>
-<p>L'objectif était de créer une application React.js et de manipuler les données d'une API. Nous avons également appris et appliqué les méthodes agiles (notamment SCRUM). Ce faisant, nous avons commencé par concevoir un Wireframe, nous avons élaboré un Product Backlog en définissant les différentes user stories et les Tech Tasks impliquées. Enfin, tout au long du projet, nous avons utilisé Trello pour mieux organiser et suivre nos progrès.</p>
+<p>L'objectif était de créer une application React.js et de manipuler les données d'un serveur back. Nous avons également appris et appliqué les méthodes agiles (notamment SCRUM). Ce faisant, nous avons commencé par concevoir un Wireframe, nous avons élaboré un Product Backlog en définissant les différentes user stories et les Tech Tasks impliquées. Enfin, tout au long du projet, nous avons utilisé Trello pour mieux organiser et suivre nos progrès.</p>
 </br>
   
 <h2>Caractéristiques</h2>
@@ -60,22 +60,13 @@
 
 <br/>
 <ul>
- <li>Benedicte<a href=</a>https://github.com/Benedct-Laurain</a></li>
-   <li>Anoushka<a href=</a>https://github.com/Anouchka-M</a></li>
- <li>Mariem<a href=</a>https://github.com/mariem31</a></li>
-   <li>Audrey VALLIÉ</li>
+ <li>Benedicte <a href=</a>https://github.com/Benedct-Laurain</a></li>
+   <li>Anoushka <a href=</a>https://github.com/Anouchka-M</a></li>
+ <li>Mariem <a href=</a>https://github.com/mariem31</a></li>
+   <li>Audrey</li>
 </ul>
 <br/>
-<h2>Caractéristiques</h2>
-<ul>
- <li>Page d'accueil avec un lecteur audio et un background fait en equilizer</li>
- <li>Une page mix proposant l'écoute des différents mix du DJ</li>
- <li>Un carroussel de photos</li>
- <li>Un formulaire </li>
- <br/>
- <h2> API Utilisée</h2>
- <p>Pour le projet, nous avons décidé de créer notre propre <a href="https://github.com/JulesCharles/API-PAYS.gitAPI">API</a></p>
- <br/>
+
  <h2>Dans le répertoire du projet, vous pouvez exécuter :</h2>
 <p>npm install</p>
 <p>npm start<p>
